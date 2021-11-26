@@ -13,7 +13,7 @@ class script(object):
     BOTS_TXT = """<b>NOTE:</b>
 - Official Bots Powered by <a href=https://t.me/TeamEvamaria>ReeloadMedia</a>. 
 - Series -  @RMSeriesbot 
-- Movies -  @RM_Filterbot """
+- Movies -  @RM_Filterbot"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
